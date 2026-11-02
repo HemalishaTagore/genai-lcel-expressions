@@ -69,7 +69,8 @@ print(response)
 ```
 
 ### OUTPUT:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2551cf8-a1f9-4bcb-9fb8-1dfc8261e8c0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e32f037f-ab45-494f-b862-dbd63f5778d6" />
+
 
 
 ### RESULT:
